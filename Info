@@ -1,0 +1,1 @@
+Myself and a coworker were in need of a standard analyzer for Apache Lucene and needed it to be case insensitive. Turns out it was as simple as commenting a line out that added a lower case filter to the tokenizer.
